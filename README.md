@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Assignment 1
-- 🌱 I’m currently learning python 
-- 👯 I’m looking to collaborate on projects
+- 🔭 I’m interested in learning new things
+- 🌱 I’m currently working on my career
+- 👯 I’m favourite hobby is to play with coding
 
 
 <!--
