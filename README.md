@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m interested in learning new things
 - 🌱 I’m currently working on my career
-- 👯 I’m favourite hobby is to play with coding
+- 👯 I’m favourite hobby is to play with ML algorithms
 
 
 <!--
